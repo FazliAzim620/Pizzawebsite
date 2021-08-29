@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Pizzawebsite/static/css/main.c7704cd5.chunk.css",
+    "main.js": "/Pizzawebsite/static/js/main.def89741.chunk.js",
+    "main.js.map": "/Pizzawebsite/static/js/main.def89741.chunk.js.map",
+    "runtime-main.js": "/Pizzawebsite/static/js/runtime-main.a77064a0.js",
+    "runtime-main.js.map": "/Pizzawebsite/static/js/runtime-main.a77064a0.js.map",
+    "static/js/2.9a21bb0c.chunk.js": "/Pizzawebsite/static/js/2.9a21bb0c.chunk.js",
+    "static/js/2.9a21bb0c.chunk.js.map": "/Pizzawebsite/static/js/2.9a21bb0c.chunk.js.map",
+    "index.html": "/Pizzawebsite/index.html",
+    "static/css/main.c7704cd5.chunk.css.map": "/Pizzawebsite/static/css/main.c7704cd5.chunk.css.map",
+    "static/js/2.9a21bb0c.chunk.js.LICENSE.txt": "/Pizzawebsite/static/js/2.9a21bb0c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Pizzawebsite/static/media/bg.38f4b351.jpg",
+    "static/media/pizza.0a62753a.jpg": "/Pizzawebsite/static/media/pizza.0a62753a.jpg",
+    "static/media/pizza1.a84ae921.png": "/Pizzawebsite/static/media/pizza1.a84ae921.png",
+    "static/media/pizza2.c40182b3.png": "/Pizzawebsite/static/media/pizza2.c40182b3.png",
+    "static/media/pizza3.85dc67ec.png": "/Pizzawebsite/static/media/pizza3.85dc67ec.png",
+    "static/media/pizza4.f03c9d6b.png": "/Pizzawebsite/static/media/pizza4.f03c9d6b.png",
+    "static/media/pizza5.cb67f4d4.png": "/Pizzawebsite/static/media/pizza5.cb67f4d4.png",
+    "static/media/pizza6.6f6d5bf8.png": "/Pizzawebsite/static/media/pizza6.6f6d5bf8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a77064a0.js",
+    "static/js/2.9a21bb0c.chunk.js",
+    "static/css/main.c7704cd5.chunk.css",
+    "static/js/main.def89741.chunk.js"
+  ]
+}
